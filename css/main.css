@@ -4,9 +4,13 @@ html {
   color: #222;
 }
 
-nav {
+nav a {
   color: #8f2440;
   text-decoration: none;
+}
+
+nav ol {
+  list-style-type: none;
 }
 
 h1, h2 {
