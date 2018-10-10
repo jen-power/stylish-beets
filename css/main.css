@@ -42,6 +42,30 @@ p {
   font-weight: bold;
 }
 
+blockquote {
+  font-size: 1.125rem;
+  font-style: italic;
+  text-align: center;
+}
+
+blockquote cite {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.serving {
+  font-style: italic;
+}
+
+dl dt {
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+}
+
+dl dd {
+  text-indent: 0.1em;
+}
+
 footer a {
   color: #8f2440;
   text-decoration: none;
