@@ -51,7 +51,7 @@ figcaption {
 blockquote {
   font-size: 1.125rem;
   font-style: italic;
-  text-align: center;
+  text-indent: .3rem;
 }
 
 blockquote cite {
@@ -81,12 +81,12 @@ aside ul {
   list-style-type: circle;
 }
 
-footer a {
+a {
   color: #8f2440;
   text-decoration: none;
 }
 
-footer a:hover {
+a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
