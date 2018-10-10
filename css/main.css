@@ -1,14 +1,14 @@
 html {
   background-color: #c9b5ab;
   color: #222;
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   line-height: 1.5;
 }
 
 nav a {
   color: #8f2440;
-  font-family: 'PT Sans', sans-serif;
-  font-weight:bold;
+  font-family: "PT Sans", sans-serif;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -28,23 +28,20 @@ img {
 
 h1, h2 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
 p {
+  font-size: .8rem;
   font-weight: normal;
 }
 
 figcaption {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
-}
-
-p {
-  font-size: 0.8rem;
 }
 
 .intro {
@@ -58,7 +55,7 @@ blockquote {
 }
 
 blockquote cite {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
 }
 
@@ -72,12 +69,12 @@ ol {
 }
 
 dl dt {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: bold;
 }
 
 dl dd {
-  text-indent: 0.1em;
+  text-indent: .1em;
 }
 
 aside ul {
