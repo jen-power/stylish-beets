@@ -2,10 +2,12 @@ html {
   background-color: #c9b5ab;
   line-height: 1.5;
   color: #222;
+  font-family: 'PT Serif', serif;
 }
 
 nav a {
   color: #8f2440;
+  font-family: 'PT Sans', sans-serif;
   text-decoration: none;
 }
 
@@ -15,4 +17,5 @@ nav ol {
 
 h1, h2 {
   color: #3f1622;
+  font-family: 'PT Sans', sans-serif;
 }
