@@ -17,6 +17,11 @@ nav ol {
   list-style-type: none;
 }
 
+nav a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
 img {
   width: 100%;
 }
@@ -25,7 +30,11 @@ h1, h2 {
   color: #3f1622;
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
-  font-style: bold;
+  font-weight: bold;
+}
+
+p {
+  font-weight: normal;
 }
 
 figcaption {
